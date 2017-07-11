@@ -4,7 +4,7 @@ public class Player {
 	private String name;
 	private String title;
 	private String surname;
-	private static String[] nameList = {"Solomon", "Jorgen", "Kanye", "Joe", "Nick", "Cadence"};
+	private static String[] nameList = {"Solomon", "Rodrigo", "Jorgen", "Kanye", "Joe", "Nick", "Cadence"};
 	private static  String[] titleList = {"The sleepy", "The creep", "The weirdo", "The self-conscious AI", "The self-aware AI"};
 	private static String[] surnameList = {"Sample text", "Pérez", "Tructos", "Korga"};
 	
